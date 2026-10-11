@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"Before the Click - Snap prototype","version":"0.1.0","description":"Review link navigation in the current tab. Local/offline by default. Experimental, not a security boundary.","permissions":["activeTab","scripting"],"host_permissions":["http://127.0.0.1:8775/*"],"action":{"default_popup":"popup.html"},"background":{"service_worker":"worker.js"}}
